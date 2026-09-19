@@ -22,6 +22,7 @@ mvn clean javafx:run
 
 ## Future Improvements/Additions
 
+- Refactor Main.java into modules
 - Session high score
 - Custom words
 - Premade themed word collections
